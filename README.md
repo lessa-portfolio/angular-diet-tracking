@@ -1,27 +1,51 @@
-# AngularDietTracking
+# Angular Diet Tracking
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
+[![Angular Version](https://img.shields.io/badge/Angular-17.0.1-red.svg)](https://angular.io/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-## Development server
+## Description
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Angular Diet Tracking is a web application built with Angular 17 for tracking and managing dietary information, including food registration, nutritional analysis, and recipe management.
 
-## Code scaffolding
+## Prerequisites
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- [Node.js](https://nodejs.org/) (v14.x or higher)
+- [Angular CLI](https://angular.io/cli) (v17.x or higher)
 
-## Build
+## Features 🚀
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- [ ]  **Food Registration:** Easily register and manage information about various foods 🍎🍌.
+- [ ]  **Recipe Management:** Create and manage recipes with detailed nutritional information 📋.
+- [ ]  **Nutritional Analysis:** Calculate and view nutritional information for individual foods and recipes 📊.
+- [ ]  **Diet Tracking:** Track and analyze daily dietary intake 📈.
+- [ ]  **Responsive Design:** Accessible and usable on various devices 📱💻.
 
-## Running unit tests
+## Getting Started
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### 1. Clone the repository:
 
-## Running end-to-end tests
+```bash
+  git clone https://github.com/lessa-portfolio/angular-diet-tracking
+  
+  cd angular-diet-tracking
+```
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+### 2. Install dependencies:
 
-## Further help
+```bash
+npm install
+```
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### 3. Run the application:
+
+```bash
+ng serve
+```
+
+Open your browser and navigate to http://localhost:4200/.
+
+## Contributing
+If you'd like to contribute to this project, please follow the Contributing Guidelines.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
