@@ -1,4 +1,4 @@
-import { BaseResourceModel } from "./base-resource.model";
+import { BaseResourceModel } from "../../shared/models/base-resource.model";
 import { NutritionalInfo } from "./nutritional-info.model";
 
 export class Food extends BaseResourceModel {
